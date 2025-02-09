@@ -1,1 +1,1 @@
-# nanoGPT
+#ValarGPTis
